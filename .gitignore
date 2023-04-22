@@ -2,4 +2,3 @@ node_modules
 .env
 demo.js
 rest.http
-package-lock.json
